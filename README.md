@@ -19,3 +19,10 @@ Bezerra (@gpbezerra) e Thalles Rodrigues (@taernsietr).
 
 [Mockup](https://www.figma.com/file/vbfZ6DxzSfleG32ecIMEEJ/Untitled?type=design&node-id=0%3A1&mode=design&t=iHSwIggCCQ4EJQja-1)
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
