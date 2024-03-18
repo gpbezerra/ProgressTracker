@@ -1,5 +1,5 @@
 export default function Page(){
     return(
-        <h1>Olá</h1>
+        <h1>Dashboard Page</h1>
     ) 
 }
